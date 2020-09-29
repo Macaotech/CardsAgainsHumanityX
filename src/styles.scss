@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+  }
+  body{
+      background-image: url("https://images.unsplash.com/photo-1516642898673-edd1ced08e87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+      background-repeat: repeat-y;
+      background-size: cover;
+  }
